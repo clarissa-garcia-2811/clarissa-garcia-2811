@@ -5,30 +5,35 @@ I'm a software engineer with experience building and maintaining web application
 Throughout my career, I've worked across the stack using Python, Django, React, JavaScript, SQL, and GraphQL. Whether it's improving database query performance, developing user-facing features, or designing maintainable application architecture, I enjoy building software that is both reliable and impactful.
 
 I've had the opportunity to contribute to projects in media, healthcare, aviation, education, and nonprofit organizations, giving me experience working on software that serves a wide range of users and real-world needs.
+## 🚀 Core Technologies
 
-## 🚀 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=FFD43B\&labelColor=1E1E1E)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=44B78B\&labelColor=1E1E1E)
 
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge\&logo=react\&logoColor=61DBFB\&labelColor=1E1E1E)
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E\&labelColor=1E1E1E)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=336791\&labelColor=1E1E1E)
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=E10098\&labelColor=1E1E1E)
 
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql\&logoColor=white)
+## 💻 Additional Experience
 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00\&labelColor=1E1E1E)
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql\&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=DD0031\&labelColor=1E1E1E)
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=E34F26\&labelColor=1E1E1E)
 
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=1572B6\&labelColor=1E1E1E)
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=4479A1\&labelColor=1E1E1E)
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=F05032\&labelColor=1E1E1E)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=D24939\&labelColor=1E1E1E)
 
 ## 📫 Connect
 
