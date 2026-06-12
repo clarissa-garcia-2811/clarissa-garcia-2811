@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi there, I'm Clarissa 👋
 
-<!--
-**clarissa-garcia-2811/clarissa-garcia-2811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who enjoys building reliable systems and improving how they perform.
 
-Here are some ideas to get you started:
+My interest in computers started at a young age and grew into a career where I've contributed to applications serving over 1.5 million monthly users. I've worked across the stack, building user-facing features with React and backend systems with Python and Django, with a particular interest in performance optimization and scalable software design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technologies & Tools
+Languages
+Python
+JavaScript
+Java
+SQL
+HTML
+CSS
+Frameworks & Libraries
+Django
+React
+Angular
+jQuery
+Bootstrap
+Tools & Technologies
+Git
+GraphQL
+MySQL
+Jenkins (CI/CD)
+REST APIs
+Areas of Interest
+Full-Stack Development
+Backend Engineering
+Performance Optimization
+Database Design & Query Optimization
+Scalable Systems
+Software Architecture
